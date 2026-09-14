@@ -88,3 +88,8 @@ A concise explanation of the project:
 > I started with a simple Logistic Regression baseline, then improved the pipeline by engineering features from passenger names, family structure, cabins and tickets. I used stratified cross-validation to compare models and selected a CatBoost ensemble because it handled the categorical features well. I then trained the final models on the complete training set and generated the Kaggle submission.
 
 Be prepared to explain every feature and modeling choice in your own words.
+
+## Kaggle Notebook
+
+Public notebook:
+https://www.kaggle.com/code/safouaneouakkah/titanic-survival-prediction-machine-learning
